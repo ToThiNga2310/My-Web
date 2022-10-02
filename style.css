@@ -427,3 +427,7 @@ h3 {
   color: #555;
   transition-duration: 0.3s;
 }
+.copyright{
+  text-align: center;
+  position: relative;
+}
